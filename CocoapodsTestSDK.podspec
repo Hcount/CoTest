@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "MySDK"
+  s.name         = "CocoapodsTestSDK"
   s.version      = "1.0.0"
   s.summary      = "Log SDK"
   s.homepage     = "https://github.com/Hcount"
